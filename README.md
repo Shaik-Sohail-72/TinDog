@@ -1,5 +1,5 @@
 # TinDog
-A startup landing page using Boostrap and advanced CSS...
+A startup landing page using Bootstrap and advanced CSS...
 It has a title section, as well as features sections, a carousel to browse testimonials, a pricing plan section, and a call to action where you get your users to download your app, and finally a nice little footer with socials icons.
 
 So this startup web site fit for any startup.
